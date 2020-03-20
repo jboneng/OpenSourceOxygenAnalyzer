@@ -5,3 +5,4 @@
 1x 4 pin I2c 1.3" 128x54 Oled screen (https://www.aliexpress.com/item/32834848177.html)
 1x on/off switch (optional if power source is controlled by an another unit)
 1x Button for calibration functionality (pcb hav 4 pins for button, two of the pins is for vcc and gnd to use for buttons with built in LED)
+1x R-22 O2 Cell (eks:  https://www.deep6gear.com/oxygen-sensor-divesoft-r22s.html)
