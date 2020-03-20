@@ -1,1 +1,7 @@
 
+1x ADS1015 ADC breakout module (the purple one seen here: https://www.aliexpress.com/item/4000345711205.html)
+1x Arduino Pro Mini 5v 16mhz (https://www.aliexpress.com/item/33016840779.html)
+3x 10k ohm resistors
+1x 4 pin I2c 1.3" 128x54 Oled screen (https://www.aliexpress.com/item/32834848177.html)
+1x on/off switch (optional if power source is controlled by an another unit)
+1x Button for calibration functionality (pcb hav 4 pins for button, two of the pins is for vcc and gnd to use for buttons with built in LED)
