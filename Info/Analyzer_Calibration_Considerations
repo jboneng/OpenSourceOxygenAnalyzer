@@ -1,1 +1,6 @@
 
+The calibration should be done with dry air, with an o2 percent of aprox. 21%. If calibrating against air from a high pressure tank
+make sure the flow is not to strong, the air flow should be weak.
+
+The firmware does not per 20 march of 2020 support calibratin against 100% O2 or other gas mixes with known o2 percent, but this
+functionality should be easy to implement in the firmware if needed.
