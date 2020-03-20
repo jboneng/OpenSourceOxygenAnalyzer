@@ -1,0 +1,3 @@
+The signal from the O2 cell(s) are very weak and is easly disrupted by electormagnetic noise, care should be taken to use good shealded
+cords for the communication between the ADS1015 and the cell, care should also be taken in the physical layout so the signal cords from the cell
+is not to close to other cords or electromagnetic sources.
