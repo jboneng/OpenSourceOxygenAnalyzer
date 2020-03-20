@@ -8,3 +8,10 @@ Oxygen cell suitable for this analyzer is classified as R-22.
 
 Never use old cells, they degrade over time with exposure to ambient air, check the "use before dates" on the cells and replace them
 in accordance with manufactures recomendations.
+
+------------------------------------------------------------------------------------
+
+For powersource you can use between 5 -12v the logic runs on 5v logic. Eksamples on good powersource is
+* 9v battery
+* LiPo + boost converter sett to 6v
+* USB port or charger
