@@ -10,7 +10,14 @@
 #define YPOS 1
 #define DELTAY 2
 
-Adafruit_ADS1015 ads;     
+//lets us confgure to use ether ADS1015 or ADS1115 for the communication with the O2 cell.
+#define USE_ADS1115 1 //1 = use ads1115, 0 or commentedd out = use ads1015
+#ifdef USE_ADS1115
+   Adafruit_ADS1115 ads;
+#else
+   Adafruit_ADS1015 ads;
+#endif
+
 Adafruit_SH1106 display(OLED_RESET);
 
 double  calibrationv; //used to store calibrated value
